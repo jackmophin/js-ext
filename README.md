@@ -1,2 +1,19 @@
-<img align='center'>![ext logo](https://github.com/user-attachments/assets/0c5de802-5019-41e5-b533-f7a1802fb595)</img>
-<h1>EXT Toolkit For Javascript</h1>
+# EXT Toolkit for JavaScript
+
+![EXT Toolkit Logo](https://github.com/user-attachments/assets/0c5de802-5019-41e5-b533-f7a1802fb595)
+
+## Описание
+
+**EXT Toolkit** — это легкий и мощный набор утилит для JavaScript, созданный для упрощения и ускорения разработки. Он включает полезные функции, которые дополняют стандартные возможности JavaScript и делают код чище и понятнее.
+
+## Возможности
+
+- Удобные функции для работы с массивами и объектами
+- Расширения для стандартных типов данных
+- Быстрые инструменты для отладки и логирования
+- Простота подключения и использования
+
+## Установка
+
+```bash
+npm install ext-toolkit
