@@ -11,4 +11,5 @@
 ## Установка
 
 ```bash
-npm install ext-toolkit
+<script src="https://cdn.jsdelivr.net/gh/jackmophin/js-ext/i.js"></script>
+```
